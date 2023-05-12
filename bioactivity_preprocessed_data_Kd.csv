@@ -1,5 +1,5 @@
-molecule_chembl_id,canonical_smiles,bioactivity_class,standard_value
-CHEMBL106,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,intermediate,6000.0
+molecule_chembl_id,smiles,bioactivity_class,standard_value
+CHEMBL106,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,active,6000.0
 CHEMBL104,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,active,73.0
 CHEMBL808,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,active,73.0
 CHEMBL91,Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1,active,73.0
@@ -18,9 +18,9 @@ CHEMBL3805955,Nc1[nH]nc(-c2ccc(O)cc2O)c1-c1ccc(O)cc1,inactive,181000.0
 CHEMBL3806191,Nc1cccc(-c2cccc(-c3cn[nH]c3N)c2)c1,inactive,140000.0
 CHEMBL3804895,Nc1cccc(-c2cc(-c3cn[nH]c3N)ccc2OCc2ccccc2)c1,inactive,28000.0
 CHEMBL3804839,COc1ccc(-c2cn[nH]c2N)cc1-c1cccc(N)c1,inactive,68000.0
-CHEMBL3806115,Nc1cccc(-c2cccc(-c3c(-c4ccc(O)cc4)n[nH]c3N)c2)c1,intermediate,740.0
-CHEMBL3805159,Nc1cccc(-c2cc(-c3c(-c4ccc(O)cc4)n[nH]c3N)ccc2O)c1,intermediate,4500.0
-CHEMBL3805279,Oc1ccc(CNc2[nH]nc(-c3ccc(O)cc3)c2-c2ccc(O)cc2)cc1,intermediate,6300.0
+CHEMBL3806115,Nc1cccc(-c2cccc(-c3c(-c4ccc(O)cc4)n[nH]c3N)c2)c1,active,740.0
+CHEMBL3805159,Nc1cccc(-c2cc(-c3c(-c4ccc(O)cc4)n[nH]c3N)ccc2O)c1,active,4500.0
+CHEMBL3805279,Oc1ccc(CNc2[nH]nc(-c3ccc(O)cc3)c2-c2ccc(O)cc2)cc1,active,6300.0
 CHEMBL3805497,Oc1ccc(-c2n[nH]c(NCc3ccc(O)c(Br)c3)c2-c2ccc(O)cc2)cc1,inactive,19000.0
 CHEMBL3805546,Oc1ccc(-c2n[nH]c(NCc3ccsc3)c2-c2ccc(O)cc2)cc1,inactive,18000.0
 CHEMBL3805451,Oc1ccc(-c2n[nH]c(NCc3ccco3)c2-c2ccc(O)cc2)cc1,inactive,24000.0
@@ -35,6 +35,6 @@ CHEMBL3806191,Nc1cccc(-c2cccc(-c3cn[nH]c3N)c2)c1,inactive,14000.0
 CHEMBL3806237,Nc1ccc(-c2cccc(-c3cn[nH]c3N)c2)cc1,inactive,230000.0
 CHEMBL3804971,COc1ccc(-c2n[nH]c(N)c2-c2cccc(-c3cccc(N)c3)c2)cc1,active,34.0
 CHEMBL3806115,Nc1cccc(-c2cccc(-c3c(-c4ccc(O)cc4)n[nH]c3N)c2)c1,active,15.0
-CHEMBL3805159,Nc1cccc(-c2cc(-c3c(-c4ccc(O)cc4)n[nH]c3N)ccc2O)c1,intermediate,290.0
+CHEMBL3805159,Nc1cccc(-c2cc(-c3c(-c4ccc(O)cc4)n[nH]c3N)ccc2O)c1,active,290.0
 CHEMBL3818493,Nc1ccc2nccc(-n3cncn3)c2c1,inactive,28000.0
 CHEMBL3819124,CCOC(=O)[C@H]1[C@@H]2C=C[C@@H](C2)[C@]12C(=O)N(C)c1ccccc12,inactive,357000.0
